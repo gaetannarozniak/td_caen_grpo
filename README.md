@@ -1,6 +1,6 @@
 # td_caen_grpo
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gaetannarozniak/td_caen_grpo/blob/main/Copie_de_grpo_finetune.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gaetannarozniak/td_caen_grpo/blob/main/play_with_grpo.ipynb)
 
 Hands-on notebook for the **AI4Science Summer School** (Caen, 2 July 2026) — *Pierre Marion & Gaëtan Narozniak*.
 
