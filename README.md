@@ -6,6 +6,8 @@ Slides and hands-on notebook for the **AI4Science Summer School** (Caen, 2 July 
 
 We train a small language model to **solve multiplications reliably** using **GRPO** (Group Relative Policy Optimization), the reinforcement-learning algorithm behind modern reasoning models.
 
+The notebook is adapted from the GRPO example by [Maxime Labonne](https://huggingface.co/mlabonne); see the original [notebook](https://huggingface.co/course/en/chapter12/5).
+
 The notebook walks through:
 
 1. **Next-token prediction** with GPT-2 — how a language model generates text one token at a time.
