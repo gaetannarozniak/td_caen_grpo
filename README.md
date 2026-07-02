@@ -1,8 +1,8 @@
-# td_caen_grpo
+# LLM Training and AI for maths
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gaetannarozniak/td_caen_grpo/blob/main/Copie_de_grpo_finetune.ipynb)
 
-Hands-on notebook for the **AI4Science Summer School** (Caen, 2 July 2026) — *Pierre Marion & Gaëtan Narozniak*.
+Slides and hands-on notebook for the **AI4Science Summer School** (Caen, 2 July 2026) — *Pierre Marion & Gaëtan Narozniak*.
 
 We train a small language model to **solve multiplications reliably** using **GRPO** (Group Relative Policy Optimization), the reinforcement-learning algorithm behind modern reasoning models.
 
